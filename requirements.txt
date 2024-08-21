@@ -1,12 +1,14 @@
 fastapi==0.104.0
-requests==2.31.0
+requests==2.32.2
 html2text==2020.1.16
 aiofiles==22.1.0
 beautifulsoup4==4.12.2
-pypdf2==2.10.5
+pypdf2==2.10.6
 langchain==0.0.321
 llama-cpp-python==0.2.11
 typing-extensions==4.8.0
 uvicorn==0.23.2
 pyppeteer==1.0.2
 pyppeteer-stealth==2.7.4
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
