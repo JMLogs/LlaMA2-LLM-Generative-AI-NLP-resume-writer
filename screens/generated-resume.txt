@@ -1,0 +1,25 @@
+Screenshot: New resume
+
+Description:
+This screenshot displays the results page showing the newly generated, customized resume.
+
+Interface Elements:
+- Same header as the initial form: "LlaMA 2 AI/LLM Professional Resume writer"
+- Original form fields remain visible at the top (Job Ad URL and Resume upload)
+- Card/panel below showing "Your new resume" heading
+- Text area displaying the complete generated resume content with proper formatting
+- The resume content is displayed with preserved line breaks and structure
+
+Resume Structure (as shown):
+The generated resume includes standard sections:
+- Full name
+- Contact Information
+- Address
+- Social links
+- Objective Statement
+- Skills
+- Experiences
+- Education
+
+Purpose:
+This is the output screen where users can review their newly generated, AI-customized resume that has been aligned with the job advertisement requirements. Users can read, copy, or save this personalized resume.

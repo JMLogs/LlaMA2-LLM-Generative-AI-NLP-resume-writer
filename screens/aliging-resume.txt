@@ -1,0 +1,13 @@
+Screenshot: AI is generating resume
+
+Description:
+This screenshot shows a modal dialog that appears while the AI is processing and generating the customized resume.
+
+Interface Elements:
+- Modal dialog box with "Please wait" header
+- Message text: "AI is now customizing and aligning your resume. It could take up to 20 minutes depending on your cpu and RAM."
+- Spinner/loading animation indicating ongoing process
+- Transparent background overlay
+
+Purpose:
+This loading screen informs users that the AI is actively processing their resume and job description. It sets expectations about processing time (up to 20 minutes) based on system resources.

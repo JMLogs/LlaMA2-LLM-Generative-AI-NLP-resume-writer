@@ -1,0 +1,16 @@
+Screenshot: Add resume and the job
+
+Description:
+This screenshot shows the main form interface of the LlaMA 2 AI/LLM Professional Resume writer application.
+
+Interface Elements:
+- Title: "LlaMA 2 AI/LLM Professional Resume writer"
+- Subtitle: "This tool will help you to get a job interview by simply aligning your resume with the job Ad requirements."
+- Job Ad URL field: Text input for entering job advertisement URL with placeholder "Enter job Ad URL"
+- Help text: "Place the job Ad link inside the textbox. it could be either from linkedin.com, join.com, indeed.com"
+- Upload Your Resume field: File upload button for PDF files
+- Help text: "Only PDFs"
+- Generate Resume button: Submit button to process the resume
+
+Purpose:
+This is the initial user interface where users can input their resume and job advertisement to generate a customized resume aligned with the job requirements.
