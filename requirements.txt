@@ -10,3 +10,4 @@ typing-extensions==4.8.0
 uvicorn==0.23.2
 pyppeteer==1.0.2
 pyppeteer-stealth==2.7.4
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
